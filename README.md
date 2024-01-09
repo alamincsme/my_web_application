@@ -31,9 +31,10 @@ This project is a User Management System developed using Java, Spring Boot, Spri
 ![Screenshot_3](https://github.com/alamincsme/my-web-application/assets/147558937/4b8a2a77-0e81-4961-996e-a4aaa0b6797d)
 
 ### Update
-![Screenshot_2](https://github.com/alamincsme/my-web-application/assets/147558937/ee0d15a2-ed83-4404-9b86-0db0e24a8fe7)
+![Screenshot_4](https://github.com/alamincsme/my-web-application/assets/147558937/30edd343-18d8-492d-99fd-50d565eeae43)
 
 ### User List
-![Screenshot_4](https://github.com/alamincsme/my-web-application/assets/147558937/30edd343-18d8-492d-99fd-50d565eeae43)
+
+![Screenshot_2](https://github.com/alamincsme/my-web-application/assets/147558937/ee0d15a2-ed83-4404-9b86-0db0e24a8fe7)
 
 
