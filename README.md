@@ -27,7 +27,7 @@ This project is a User Management System developed using Java, Spring Boot, Spri
 
 ## Screenshots
 ### Welcome Application 
-![](https://drive.google.com/drive/u/0/folders/1iO-jmCjmBEoPqqMqZxk-9ZLvgMgdLOjN)
+![Screenshot_1](https://github.com/alamincsme/my-web-application/assets/147558937/4b3a4fff-456e-4bd4-b9be-836c8cfeee48)
 ### Dashboard
 ![Dashboard](link_to_dashboard_image)
 
