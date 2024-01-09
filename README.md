@@ -1,7 +1,7 @@
 "# my-web-application" 
 # User Management System
 
-![Project Logo](link_to_logo_image)
+![Project Logo](https://drive.google.com/file/d/1vsm9HpTth9UPDMvfoK5t642wazXCVYf2/view?usp=sharing)
 
 ## Overview
 
@@ -36,10 +36,4 @@ This project is a User Management System developed using Java, Spring Boot, Spri
 ### User List
 ![User List](link_to_user_list_image)
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/user-management-system.git
 
