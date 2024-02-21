@@ -6,6 +6,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import java.util.List;
@@ -63,4 +64,13 @@ public class UserController {
 
         return "redirect:/users";
     }
+
+    @GetMapping("/users/search")
+    public String searchUsers(@RequestParam("keyword") String keyword, Model model) {
+        List<User> searchResults = service.search(keyword);
+        model.addAttribute("listUsers", searchResults);
+        model.addAttribute("pageTitle", "Search Results for: " + keyword);
+        return "users";
+    }
+
 }
