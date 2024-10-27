@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: my_web_application
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/mydb
+  cassandra:
+    username: root
+  activemq:
+    password: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        show_sql: true
+
+server:
+  port: 8080
